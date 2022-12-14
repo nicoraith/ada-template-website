@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Into the Male Gaze, a story of cinema representation
 description: UtopianSky Website
-show_downloads: True
+show_downloads: False
 navigation:
   - title: Home
     url: /
