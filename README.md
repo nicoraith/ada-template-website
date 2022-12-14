@@ -1,7 +1,7 @@
 # Into the Male Gaze
 ## A story of Representation in Cinema
 
-<img src="Assets/img/Showtime.jpg"  width="600"/>
+<img src="assets/img/Showtime.jpg"  width="900"/>
 
 ### About CMU Movie Summary Corpus
 All data comes from the CMU Movie Summary Corpus Datasets. CMU Movie Summary is an open corupus containing 42,306 movie plot summaries extracted from wikipedia, as well as metadeta from Freebase including revenues, genres, release dates, runtimes, languages, character names, and actor information. It was compiled by the Language Technologies Institute and Machine Learning Department at Carnegie Mellon University. Movie data ranges from 1888 to 2016. The CMU Corpus is publically available [here](http://www.cs.cmu.edu/~ark/personas/).
