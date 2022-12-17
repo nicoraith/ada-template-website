@@ -28,16 +28,15 @@ Since its conception in the late 19th century, The cinema industry's relevance a
 
 <table>
   <tr>
-    <td> <i>Figure 1: Movie releases by year </i> </td>
-     <td> <i>Figure 2: Average revenue by year </i> </td>
+    <td> <i>Fig.1: Movie releases by year </i> </td>
+     <td> <i>Fig.2: Average revenue by year </i> </td>
   </tr>
   <tr>
     <td><img src="assets/img/Movies_Released_over_the_Decades.png" width=500 ></td>
     <td><img src="assets/img/Mean_Revenue_by_Year.png" width=500 ></td>
   </tr>
  </table>
-
-
+ 
 From preliminary exploration of our data, it is immediately evident that the cinema industry is a growing one. In _Figure 1_ we see the meteoric rise in raw amount of movies being released over the last century. The sharp drop off in the 2010's is simply due to an end to the data collection, and does not reflect a real decrease in movie releases. _Figure 2_ shows the mean revenue of these movies over the same timeframe. Bubble sizes reflect the amount of movies being used in the averaging calculation - spanning two orders of magnitude (1 to 100's). When paired together we get a clear indicator of the increasing market size and depth over time.
 
 
@@ -53,11 +52,33 @@ The following questions do not comprise an exhaustive list, but are fundamental 
 * Do the aforementioned questions show an evolution over time? Do they show discernable differences across geographies?
 
 ### Initial findings of data exploration. 
-* Present preliminary data
-    + Fewer women than men in the cinema
-    + Age graph: average age difference between genders
+<table align = 'left' >
+  <tr>
+    <td> <i>Fig.3: Disparity in Age by Gender </i> </td>
+  </tr>
+  <tr>
+    <td><img src="assets/img/Age_Gender_Time.png" width=500 ></td>
+  </tr>
+ </table>
+ 
+<br />
+<br />
+
+We will begin with a few preliminary explorations of our data. There has been a longstanding imbalance in the film industry, with men occupying a larger fraction of representation on screen, often in more distinguished roles. This leads to a simultaneous marginalization and perpetuation of stereotypes via the portrayal of women. 
+    
+    
 * Draw an initial conclusion and set the scene
     + There seems to be an imbalance in gender representation. Thus, there is a  need for further exploration
+    
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ### Data Analysis
 * NLP: Agent, Patient, Attributes
@@ -67,3 +88,21 @@ The following questions do not comprise an exhaustive list, but are fundamental 
     + FURTHER ANALYSIS TO COME
     
 ### Conclusion on the results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
