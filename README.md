@@ -9,14 +9,11 @@ All data comes from the CMU Movie Summary Corpus Datasets. CMU Movie Summary is 
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
 
-<img align="right" width="200" src="assets/img/Duality.jpg">
+
 
 ### Framing our Research
+<img align="right" width="200" src="assets/img/Duality.jpg">
 Art imitates life and life imitates art - Cinema has the power to capture the zeitgeist of an era. In this project we will be studying gender representation in cinema to better understand trends in societal sentiments. Our goal is to assess if representations differ by gender and if they have evolved through time. This project is motivated by the fact that the 20th century was a time of dynamic social upheavel and mobility, e.g., in Switzerland, womens sufferage at the federal level was granted as late as 1971.
 
 This project is predicated on the idea that character portrayal in cinema serves as a mirror for society, which gave rise to the character. Character focused analysis will lean heavily on Stanford NLP library in order to understand lexical groups by which characters are represented.
@@ -29,8 +26,21 @@ This project is predicated on the idea that character portrayal in cinema serves
 ### Cinema's Increasing Impact
 Since its conception in the late 19th century, The cinema industry's relevance and impact has continued to grow. In America alone, three in four people reported going to the cinema just last year... As the industry grows, the dynamic interplay between cinema and culture continues to reinforce itself. Cinema simultaneously influences culture while being a product of it. In such a way it serves as a mirror to common sentiment, attitudes, and concerns as well as a driver for those feelings themselves. 
 
-- Movie releases by year plot. want to edit it in seaborn / make it interactive
-- Movie revenue by year plot want to edit it in seaborn / make it interactive
+<br />
+
+<table>
+  <tr>
+    <td>Movie releases by year</td>
+     <td>Average revenue by year</td>
+  </tr>
+  <tr>
+    <td><img src="assets/img/OMG.jpg" width=350 ></td>
+    <td><img src="assets/img/OMG.jpg" width=350 ></td>
+  </tr>
+ </table>
+
+- Movie releases by year plot. want to edit it in seaborn / potentially make it interactive
+- Movie revenue by year plot want to edit it in seaborn / potentially make it interactive
 
 From preliminary exploration of our data, it is immediately evident that the cinema industry is a growing one. In _Figure 1_ we see the meteoric rise in raw amount of movies being released over the last century. The sharp drop off in the 2010's is simply due to an end to the data collection, and does not reflect a real decrease in movie releases. _Figure 2_ shows the mean revenue of these movies over the same timeframe. Bubble sizes reflect the amount of movies being used in the averaging calculation. When paired together we get a clear indicator of the increasing market size and depth over time.
 
