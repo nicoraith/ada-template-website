@@ -25,7 +25,7 @@
 &emsp;&emsp; Since its conception in the late 19th century, The cinema industry's relevance and impact has continued to grow. In America alone, three in four people reported going to the cinema just last year... Cinema today has grown into a major global industry - with a market size in the hundred billions USD. People flock to theatres and now increasingly streaming services as venues to consume the latest releases. It has become increasingly common not only as amusement, but also to promote social and political agendas. As the industry grows, the dynamic interplay between cinema and culture continues to reinforce itself, and is likely to only increase in the future. 
 
 <br />
-<p id="F1">
+<p id="F1"> </p>
 <table>
   <tr>
     <td> <i>Fig.1: Movie releases by year </i> </td>
@@ -145,6 +145,7 @@ The following questions do not comprise an exhaustive list, but are fundamental 
  <br />
  
 ### Data Analysis
+
 * NLP: Agent, Patient, Attributes
     + Lexical analysis: we can compare the raw output of NLP output. See the more significant differences between gender in patient, agent and attributes
     + PCA: More precise analysis which considers only the most important categories which exhibit the most significant differences between the genders
