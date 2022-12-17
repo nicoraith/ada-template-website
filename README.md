@@ -1,16 +1,16 @@
-# <p style="text-align: center;"> Into the Male Gaze</p>
+# <p style="text-align: center;">Into the Male Gaze</p>
 ## <p style="text-align: center;"> A Story of Representation in Cinema</p>
 
 <br />
 
-<div style="text-align: center;">
-<img src="assets/img/Showtime.jpg"  width="600"/ >
-</div>
+<img align="center" width="600" src="assets/img/Showtime.jpg">
 
 <br />
 
 ### About CMU Movie Summary Corpus
 All data comes from the CMU Movie Summary Corpus Datasets. CMU Movie Summary is an open corupus containing 42,306 movie plot summaries extracted from wikipedia, as well as metadeta from Freebase including revenues, genres, release dates, runtimes, languages, character names, and actor information. It was compiled by the Language Technologies Institute and Machine Learning Department at Carnegie Mellon University. Movie data ranges from 1888 to 2016. The CMU Corpus is publically available [here](http://www.cs.cmu.edu/~ark/personas/).
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -28,7 +28,7 @@ This project is predicated on the idea that character portrayal in cinema serves
 
 
 ### Cinema's Increasing Impact
-Since its conception in the late 19th century, The cinema industry's relevance and impact has continued to grow. 
+Since its conception in the late 19th century, The cinema industry's relevance and impact has continued to grow. As the industry grows, the dynamic interplay between cinema and culture continues to reinforce itself. Cinema simultaneously influences culture while being a product of it. In such a way it serves as a mirror to common sentiment, attitudes, and concerns as well as a driver for those feelings themselves. 
 blah blah blah ticket sales, % of people going in the last year, blah blah
 
 - Movie releases by year plot. want to edit it in seaborn / make it interactive
