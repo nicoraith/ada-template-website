@@ -1,7 +1,12 @@
 <p style="text-align:center;font-size:30px">  <strong>Into the Male Gaze </strong> </p>
 <p style="text-align:center;font-size:24px">  <strong>A Story of Representation in Cinema </strong> </p>
 
-<img src="assets/img/Showtime.jpg" align="middle" width="600" >
+<br />
+
+<div style="text-align: center;">
+<img width="600" src="assets/img/Showtime.jpg">
+</div>
+
 <br />
 <br />
 
