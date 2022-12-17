@@ -1,6 +1,6 @@
 <p style="text-align:center;font-size:30px">  <strong>Into the Male Gaze </strong> </p>
 <p style="text-align:center;font-size:24px">  <strong>A Story of Representation in Cinema </strong> </p>
-
+<br />
 <div style="text-align: center;">
 <img width="500" src="assets/img/Showtime.jpg">
 </div>
@@ -70,7 +70,7 @@ The following questions do not comprise an exhaustive list, but are fundamental 
 &emsp;&emsp; In _Figure 3_ above we are displaying the average age at movie release for female and male actors, as well as a linear regression of the average age evolving over time. The shaded areas represent the 95% confidence interval for the regression. We see that there is indeed a difference between the average age of actors and actresses, where __actors are on average older than actresses__. <br /><br />
 &emsp;&emsp; There is also an apparent trend of increasing age, both for actresses and actors. It is unlikely that this is actually the case, but rather there is little age data for older actors at the beginning of the 20th century. Record keeping was not as good as it is now. The younger actors, whome we do have data on, are disproportionately represented in these early years- ie they lived long and late enough in the century to enter modern databases.
 <br /><br />
-&emsp;&emsp; This reflects a common cinema trope in which women are portrayed by actresses far younger than their male counterparts, even if they're supposed to be relatively the same age. This trope can reinforce and perpetuate the notion that youth and beauty are of qualities of paramount importance for women, and of less importance for male counterparts. This theme is concurrent with the idea that women have a limited 'shelf life' and are less valuble as actresses as they age. <br />
+&emsp;&emsp; This reflects a common cinema trope in which women are portrayed by actresses far younger than their male counterparts, even if they're supposed to be relatively the same age. This trope can reinforce and perpetuate the notion that youth and beauty are of qualities of paramount importance for women, and of less importance for male counterparts. This theme is concurrent with the idea that women have a limited 'shelf life' and are less valuble as actresses as they age. <br /><br />
 
 <table align = 'center' >
   <tr>
@@ -88,9 +88,62 @@ The following questions do not comprise an exhaustive list, but are fundamental 
 <br />
 
 ### Taking a Deeper Dive
+<br />
+<table>
+  <tr>
+    <td> <i>Fig.X:  </i> </td>
+  </tr>
+  <tr>
+    <td><img src="assets/img/PCA_visualization.png" width=700 ></td>
+  </tr>
+ </table>
+ 
+ 
+<br />
+<table>
+  <tr>
+    <td> <i>Fig.X: </i> </td>
+  </tr>
+  <tr>
+    <td><img src="assets/img/Top_descriptors_att.jpg" width=900 ></td>
+  </tr>
+ </table>
+
 
 <br />
+<table>
+  <tr>
+    <td> <i>Fig.X: </i> </td>
+  </tr>
+  <tr>
+    <td><img src="assets/img/Top_descriptors_pv.jpg" width=900 ></td>
+  </tr>
+ </table>
 
+
+<br />
+<table>
+  <tr>
+    <td> <i>Fig.X: </i> </td>
+  </tr>
+  <tr>
+    <td><img src="assets/img/wordcloud_men.png" width=500 ></td>
+  </tr>
+ </table>
+ 
+ 
+ <br />
+<table>
+  <tr>
+    <td> <i>Fig.X: </i> </td>
+  </tr>
+  <tr>
+    <td><img src="assets/img/wordcloud_women.png" width=700 ></td>
+  </tr>
+ </table>
+  
+ <br />
+ 
 ### Data Analysis
 * NLP: Agent, Patient, Attributes
     + Lexical analysis: we can compare the raw output of NLP output. See the more significant differences between gender in patient, agent and attributes
@@ -103,7 +156,11 @@ The following questions do not comprise an exhaustive list, but are fundamental 
 
 
 
-
+ <br />
+<div style="text-align: center;">
+<img width="500" src="assets/img/The_End.jpg">
+</div>
+ <br />
 
 
 
