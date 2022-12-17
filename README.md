@@ -37,8 +37,6 @@ Since its conception in the late 19th century, The cinema industry's relevance a
   </tr>
  </table>
 
-- Movie releases by year plot. want to edit it in seaborn / potentially make it interactive
-- Movie revenue by year plot want to edit it in seaborn / potentially make it interactive
 
 From preliminary exploration of our data, it is immediately evident that the cinema industry is a growing one. In _Figure 1_ we see the meteoric rise in raw amount of movies being released over the last century. The sharp drop off in the 2010's is simply due to an end to the data collection, and does not reflect a real decrease in movie releases. _Figure 2_ shows the mean revenue of these movies over the same timeframe. Bubble sizes reflect the amount of movies being used in the averaging calculation. When paired together we get a clear indicator of the increasing market size and depth over time.
 
