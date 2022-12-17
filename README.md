@@ -67,8 +67,10 @@ We will begin with a few preliminary explorations of our data. There has been a 
 <br />
 <br />
 
-* Draw an initial conclusion and set the scene
-    + There seems to be an imbalance in gender representation. Thus, there is a  need for further exploration
+In _Figure 3_ above we are displaying the average age at movie release for female and male actors, as well as a linear regression of the average age evolving over time. The shaded areas represent the 95% confidence interval for the regression. We see that there is indeed a difference between the average age of actors and actresses, where actors are on average older than actresses. <br />
+There is also an apparent trend of increasing age, both for actresses and actors. It is unlikely that this is actually the case, but rather there is little age data for older actors at the beginning of the 20th century. Record keeping was not as good as it is now. The younger actors, whome we do have data on, are disproportionately represented in these early years- ie they lived long and late enough in the century to enter modern databases.
+<br />
+This reflects a common cinema trope in which women are portrayed by actresses far younger than their male counterparts, even if they're supposed to be relatively the same age. This trope can reinforce and perpetuate the notion that youth and beauty are of qualities of paramount importance for women, and of less importance for male counterparts. This theme is concurrent with the idea that women have a limited 'shelf life' and are less valuble as actresses as they age. Now that we have confirmed there is indeed some surface level imbalances in representation, we will continue to explore further.
     
 <br />
 <br />
