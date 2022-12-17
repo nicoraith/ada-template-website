@@ -14,7 +14,7 @@
 <br />
 
 ### Framing our Research
-<img align="right" width="240" src="assets/img/Duality.jpg">
+<img align="right" width="260" src="assets/img/Duality.jpg">
 &emsp;&emsp; Art imitates life and life imitates art - Cinema has the power to capture the zeitgeist of an era. In this project we will be studying gender representation in cinema to better understand trends in societal sentiments. Our goal is to assess if representations differ by gender and if they have evolved through time. This project is motivated by the fact that the 20th century was a time of dynamic social upheavel and mobility, e.g., in Switzerland, womens sufferage at the federal level was granted as late as 1971.
 
 &emsp;&emsp; Culture and Cinema share a dynamic intertwined relationship. Cinema reflects the values and patterns of the culture which produced it while simultaneoulsy shaping and influencing the culture itself. In this manner, cinema and culture display a feedback loop of influence. This project is predicated on the idea that character portrayal in cinema serves as a mirror for society, which gave rise to the character.  Character focused analysis will lean heavily on Stanford NLP library in order to understand lexical groups by which characters are represented.
@@ -53,9 +53,9 @@ The following questions do not comprise an exhaustive list, but are fundamental 
 
 ### Initial findings of data exploration. 
 
-&emsp;&emsp; We will begin with a few preliminary explorations of our data. There has been a longstanding imbalance in the film industry, with men occupying a larger fraction of representation on screen, often in more distinguished roles. This leads to a simultaneous marginalization and perpetuation of stereotypes via the portrayal of women. 
+&emsp;&emsp; We will begin with a few preliminary explorations of our data. There has been a longstanding imbalance in the film industry, with men occupying a larger fraction of representation on screen, often in more distinguished roles. This leads to a simultaneous marginalization and perpetuation of stereotypes via the portrayal of women. <br />
     
-<table align = 'center' >
+<table >
   <tr>
     <td> <i>Fig.3: Disparity in Age by Gender </i> </td>
   </tr>
@@ -72,7 +72,7 @@ The following questions do not comprise an exhaustive list, but are fundamental 
 <br /><br />
 &emsp;&emsp; This reflects a common cinema trope in which women are portrayed by actresses far younger than their male counterparts, even if they're supposed to be relatively the same age. This trope can reinforce and perpetuate the notion that youth and beauty are of qualities of paramount importance for women, and of less importance for male counterparts. This theme is concurrent with the idea that women have a limited 'shelf life' and are less valuble as actresses as they age. <br /><br />
 
-<table align = 'center' >
+<table>
   <tr>
     <td> <i>Fig.4: Actor Gender ratios Over Time </i> </td>
   </tr>
