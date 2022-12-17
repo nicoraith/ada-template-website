@@ -11,6 +11,8 @@ All data comes from the CMU Movie Summary Corpus Datasets. CMU Movie Summary is 
 <br />
 <br />
 <br />
+<br />
+<br />
 
 <img align="right" width="200" src="assets/img/Duality.jpg">
 
