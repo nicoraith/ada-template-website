@@ -67,20 +67,13 @@ We will begin with a few preliminary explorations of our data. There has been a 
 <br />
 <br />
 
-
-    
 * Draw an initial conclusion and set the scene
     + There seems to be an imbalance in gender representation. Thus, there is a  need for further exploration
     
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 
 ### Data Analysis
 * NLP: Agent, Patient, Attributes
