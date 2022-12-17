@@ -32,8 +32,8 @@ Since its conception in the late 19th century, The cinema industry's relevance a
      <td> <i>Figure 2: Average revenue by year </i> </td>
   </tr>
   <tr>
-    <td><img src="assets/img/OMG.jpg" width=350 ></td>
-    <td><img src="assets/img/OMG.jpg" width=350 ></td>
+    <td><img src="assets/img/Movies_Released_over_the_Decades.png" width=500 ></td>
+    <td><img src="assets/img/Mean_Revenue_by_Year.png" width=500 ></td>
   </tr>
  </table>
 
