@@ -52,7 +52,10 @@ The following questions do not comprise an exhaustive list, but are fundamental 
 * Do the aforementioned questions show an evolution over time? Do they show discernable differences across geographies?
 
 ### Initial findings of data exploration. 
-<table align = 'left' >
+
+We will begin with a few preliminary explorations of our data. There has been a longstanding imbalance in the film industry, with men occupying a larger fraction of representation on screen, often in more distinguished roles. This leads to a simultaneous marginalization and perpetuation of stereotypes via the portrayal of women. 
+    
+<table align = 'center' >
   <tr>
     <td> <i>Fig.3: Disparity in Age by Gender </i> </td>
   </tr>
@@ -64,8 +67,7 @@ The following questions do not comprise an exhaustive list, but are fundamental 
 <br />
 <br />
 
-We will begin with a few preliminary explorations of our data. There has been a longstanding imbalance in the film industry, with men occupying a larger fraction of representation on screen, often in more distinguished roles. This leads to a simultaneous marginalization and perpetuation of stereotypes via the portrayal of women. 
-    
+
     
 * Draw an initial conclusion and set the scene
     + There seems to be an imbalance in gender representation. Thus, there is a  need for further exploration
