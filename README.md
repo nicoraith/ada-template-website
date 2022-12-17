@@ -70,7 +70,7 @@ The following questions do not comprise an exhaustive list, but are fundamental 
 &emsp;&emsp; In _Figure 3_ above we are displaying the average age at movie release for female and male actors, as well as a linear regression of the average age evolving over time. The shaded areas represent the 95% confidence interval for the regression. We see that there is indeed a difference between the average age of actors and actresses, where __actors are on average older than actresses__. <br /><br />
 &emsp;&emsp; There is also an apparent trend of increasing age, both for actresses and actors. It is unlikely that this is actually the case, but rather there is little age data for older actors at the beginning of the 20th century. Record keeping was not as good as it is now. The younger actors, whome we do have data on, are disproportionately represented in these early years- ie they lived long and late enough in the century to enter modern databases.
 <br /><br />
-&emsp;&emsp; This reflects a common cinema trope in which women are portrayed by actresses far younger than their male counterparts, even if they're supposed to be relatively the same age. This trope can reinforce and perpetuate the notion that youth and beauty are of qualities of paramount importance for women, and of less importance for male counterparts. This theme is concurrent with the idea that women have a limited 'shelf life' and are less valuble as actresses as they age. 
+&emsp;&emsp; This reflects a common cinema trope in which women are portrayed by actresses far younger than their male counterparts, even if they're supposed to be relatively the same age. This trope can reinforce and perpetuate the notion that youth and beauty are of qualities of paramount importance for women, and of less importance for male counterparts. This theme is concurrent with the idea that women have a limited 'shelf life' and are less valuble as actresses as they age. <br />
 
 <table align = 'center' >
   <tr>
@@ -88,6 +88,8 @@ The following questions do not comprise an exhaustive list, but are fundamental 
 <br />
 
 ### Taking a Deeper Dive
+
+<br />
 
 ### Data Analysis
 * NLP: Agent, Patient, Attributes
