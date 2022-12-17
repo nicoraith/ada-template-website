@@ -1,10 +1,8 @@
-# <p style="text-align: center;">Into the Male Gaze</p>
-## <p style="text-align: center;"> A Story of Representation in Cinema</p>
+<p style="text-align:center;font-size:30px">  <strong>Into the Male Gaze </strong> </p>
+<p style="text-align:center;font-size:24px">  <strong>A Story of Representation in Cinema </strong> </p>
 
 <br />
-
 <img align="center" width="600" src="assets/img/Showtime.jpg">
-
 <br />
 
 ### About CMU Movie Summary Corpus
@@ -28,8 +26,7 @@ This project is predicated on the idea that character portrayal in cinema serves
 
 
 ### Cinema's Increasing Impact
-Since its conception in the late 19th century, The cinema industry's relevance and impact has continued to grow. As the industry grows, the dynamic interplay between cinema and culture continues to reinforce itself. Cinema simultaneously influences culture while being a product of it. In such a way it serves as a mirror to common sentiment, attitudes, and concerns as well as a driver for those feelings themselves. 
-blah blah blah ticket sales, % of people going in the last year, blah blah
+Since its conception in the late 19th century, The cinema industry's relevance and impact has continued to grow. In America alone, three in four people reported going to the cinema just last year... As the industry grows, the dynamic interplay between cinema and culture continues to reinforce itself. Cinema simultaneously influences culture while being a product of it. In such a way it serves as a mirror to common sentiment, attitudes, and concerns as well as a driver for those feelings themselves. 
 
 - Movie releases by year plot. want to edit it in seaborn / make it interactive
 - Movie revenue by year plot want to edit it in seaborn / make it interactive
