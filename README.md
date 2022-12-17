@@ -1,8 +1,7 @@
 <p style="text-align:center;font-size:30px">  <strong>Into the Male Gaze </strong> </p>
 <p style="text-align:center;font-size:24px">  <strong>A Story of Representation in Cinema </strong> </p>
 
-<br />
-<img align="center" width="600" src="assets/img/Showtime.jpg">
+<img src="assets/img/Showtime.jpg" align="middle" width="600" >
 <br />
 
 ### About CMU Movie Summary Corpus
